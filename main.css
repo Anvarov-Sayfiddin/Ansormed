@@ -59,6 +59,7 @@ img {
 
 .ansormed-link {
     color: #222;
+    
 }
   
 .ansormed-link:hover {
@@ -117,7 +118,6 @@ img {
     line-height: 150%;
     letter-spacing: 2px;
     text-transform: uppercase;
-    border: none;
 }
 
 .header-button:hover {
