@@ -244,10 +244,15 @@ img {
 
 /* start-footer */
 
-.start-footer {
+.start-footerr {
     background-color: #0eb4c1;
-    padding-left: 340px;
-    padding-right: 340px;
+}
+
+.start-footer {
+    width: 448px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .footer-title {
@@ -303,6 +308,11 @@ img {
 .footer-nav {
     margin-right: 0;
     margin-left: 0;
+}
+
+.end-wrapper {
+    display: flex;
+    align-items: center;
 }
 
 .ansormed-link-footer {
